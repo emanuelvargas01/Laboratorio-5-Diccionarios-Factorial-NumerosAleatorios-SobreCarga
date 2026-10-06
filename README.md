@@ -32,21 +32,23 @@ En este repositorio se contienen las diferentes soluciones de creacion de diccio
 A continuación se presenta un esquema en árbol que explica de manera visual qué contiene el repositorio para facilitar la lectura del código:
 
 ```text
-Laboratorio#4/
-├── Properties/
-├── Resources/
-├── App.config
-├── Conexion.cs
-├── Form1.Designer.cs
-├── Form1.cs
-├── Form1.resx
-├── Laboratorio#4.csproj
-├── Producto.cs
-├── Program.cs
-├── packages.config
+├── Diccionarios HPAIII/
+│   ├── Properties/
+│   ├── Diccionarios HPAIII.csproj
+│   └── Program.cs
+├── Factorial/
+│   ├── Factorial.csproj
+│   └── Program.cs
+├── NumerosAleatorios/
+│   ├── NumerosAleatorios.csproj
+│   └── Program.cs
+├── SobreCarga de Metodos/
+│   ├── Class1.cs
+│   ├── Program.cs
+│   └── SobreCarga de Metodos.csproj
 ├── .gitattributes
 ├── .gitignore
-├── Laboratorio#4.slnx
+├── Diccionarios HPAIII.slnx
 └── README.md
 
 ```
@@ -56,7 +58,7 @@ Sigue estos pasos y comandos específicos para arrancar la aplicación en tu ent
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/emanuelvargas01/Laboratorio-4-Base-de-Datos-MySQL.git
+git clone https://github.com/emanuelvargas01/Laboratorio-5-Diccionarios-Factorial-NumerosAleatorios-SobreCarga.git
 
 
 Autor y Contexto
