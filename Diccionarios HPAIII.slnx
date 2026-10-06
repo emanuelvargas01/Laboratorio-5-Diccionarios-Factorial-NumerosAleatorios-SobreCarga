@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Diccionarios HPAIII/Diccionarios HPAIII.csproj" />
+  <Project Path="Factorial/Factorial.csproj" />
+  <Project Path="NumerosAleatorios/NumerosAleatorios.csproj" />
+  <Project Path="SobreCarga de Metodos/SobreCarga de Metodos.csproj" />
+</Solution>
