@@ -1,0 +1,5 @@
+use productosdb;
+SELECT * FROM productos where id = '' or '1' = '1' AND precio = '' or '1' = '1';
+select * FROM productos where id =1-SLEEP(15);
+use productosdb;
+select * from productos where nombre = 'Teclado'; -- 'AND cantidad = 2;
